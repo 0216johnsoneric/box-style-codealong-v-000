@@ -45,7 +45,7 @@ figcaption {
 }
 
 .light-fade{
-  background: grey; 
+  background: grey;
 }
 
 /*/////// MEDIA ////////*/
@@ -126,7 +126,9 @@ img, video, audio, iframe, table, form {
 
 /*////////// HEADER //////////*/
 
-
+header{
+  margin: 0 0 30px;
+}
 
 /*////////// NAVBAR //////////*/
 
